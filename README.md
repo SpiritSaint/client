@@ -1,4 +1,4 @@
-# GPS Device Tracking Client
+# GPS Tracking Client
 
 ## Requirements
 
